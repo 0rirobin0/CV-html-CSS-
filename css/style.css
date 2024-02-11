@@ -20,7 +20,9 @@ body{
 	transform: translate(-50%, -50%);
 	left: 50%;
 	top: 60%;
-    margin: 50PX;
+    margin: 70PX;
+    box-shadow: 0px 0px 5px 5px #e47296;
+   
    
 }
 .left{
