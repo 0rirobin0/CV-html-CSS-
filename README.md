@@ -1,6 +1,6 @@
-# About Me
+# CV 
 
- This is where I showcase about me using HTML/CSS
+ This is where I showcase about me using HTML/CSS only
  <br>
  visit 👉  https://0rirobin0.github.io/Resume/
 
