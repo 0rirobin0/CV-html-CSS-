@@ -22,7 +22,7 @@ body{
 	top: 60%;
     margin-top: 200px;
 	
-    box-shadow: 0px 0px 5px 5px #e47296;
+    box-shadow: 0px 0px 5px 5px #6d6c6c;
    
    
 }
@@ -104,7 +104,7 @@ body{
 	background-color: white;
 }
 .js{
-	width: 80%;
+	width: 50%;
 	background-color: white;
 }
 .flutter
